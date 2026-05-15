@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\bin\Debug\BuisnessAccessLayer2.dll
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\bin\Debug\BuisnessAccessLayer2.pdb
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\bin\Debug\DataAccessLayer.dll
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\obj\Debug\BuisnessAccessLayer2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\obj\Debug\BuisnessAccessLayer2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\obj\Debug\BuisnessAccessLayer2.csproj.CopyComplete
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\obj\Debug\BuisnessAccessLayer2.dll
+C:\Users\User\source\repos\DVLD\BuisnessAccessLayer2\obj\Debug\BuisnessAccessLayer2.pdb
